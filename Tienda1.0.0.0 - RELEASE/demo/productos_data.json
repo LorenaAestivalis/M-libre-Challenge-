@@ -1,0 +1,204 @@
+[ {
+  "id" : 1000004,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000005,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000006,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000007,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000008,
+  "nombre" : "Iphone 16",
+  "precio" : 3999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000009,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000010,
+  "nombre" : "Iphone* 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000011,
+  "nombre" : "Iphone* 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000012,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000013,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000014,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000015,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000016,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000017,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000018,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000019,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000020,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000021,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000022,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000023,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000024,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000025,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 18
+}, {
+  "id" : 1000026,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 15
+}, {
+  "id" : 1000027,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 1111008,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000028,
+  "nombre" : "O 3K1HMFRn3 SloprwgTgjZetajjL3GIK5eBQaR0HTBCLnWgVGlYUPqBZL1LC0SvJanHA2ykFZLf41gKpt8eeAl18HgJzK1nj 3",
+  "precio" : 1,
+  "urlImagen" : "string",
+  "description" : "string",
+  "stock" : 0
+}, {
+  "id" : 1000029,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000030,
+  "nombre" : "Iphone 16 Pro",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000031,
+  "nombre" : "Iphone 16 Pro",
+  "precio" : 4999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000032,
+  "nombre" : "Iphone 17 Pro",
+  "precio" : 5999,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 17 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 59
+} ]

@@ -1,0 +1,101 @@
+[ {
+  "id" : 1,
+  "fechaVenta" : "2025-09-08T18:55:08.0647438",
+  "productosVendidos" : [ {
+    "productoId" : 1000025,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 0
+  } ],
+  "total" : 0
+}, {
+  "id" : 2,
+  "fechaVenta" : "2025-09-08T18:56:19.8331729",
+  "productosVendidos" : [ {
+    "productoId" : 1000025,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 0
+  } ],
+  "total" : 0
+}, {
+  "id" : 3,
+  "fechaVenta" : "2025-09-08T18:56:26.3117675",
+  "productosVendidos" : [ {
+    "productoId" : 1000025,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 0
+  } ],
+  "total" : 0
+}, {
+  "id" : 4,
+  "fechaVenta" : "2025-09-08T18:58:07.0701058",
+  "productosVendidos" : [ {
+    "productoId" : 1000025,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 0
+  } ],
+  "total" : 0
+}, {
+  "id" : 5,
+  "fechaVenta" : "2025-09-08T18:58:52.530756",
+  "productosVendidos" : [ {
+    "productoId" : 1000025,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 0
+  } ],
+  "total" : 0
+}, {
+  "id" : 6,
+  "fechaVenta" : "2025-09-08T19:01:29.6783323",
+  "productosVendidos" : [ {
+    "productoId" : 1000025,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 3
+  }, {
+    "productoId" : 1000026,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 5
+  } ],
+  "total" : 472
+}, {
+  "id" : 7,
+  "fechaVenta" : "2025-09-08T19:49:36.6275908",
+  "productosVendidos" : [ {
+    "productoId" : 1000026,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 1
+  } ],
+  "total" : 59
+}, {
+  "id" : 8,
+  "fechaVenta" : "2025-09-08T19:52:51.9389138",
+  "productosVendidos" : [ {
+    "productoId" : 1000025,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 1
+  }, {
+    "productoId" : 1000026,
+    "nombreProducto" : "Camiseta deportiva",
+    "precioUnitario" : 59,
+    "cantidad" : 3
+  } ],
+  "total" : 236
+}, {
+  "id" : 9,
+  "fechaVenta" : "2025-09-09T18:56:25.7896046",
+  "productosVendidos" : [ {
+    "productoId" : 1000032,
+    "nombreProducto" : "Iphone 17 Pro",
+    "precioUnitario" : 5999,
+    "cantidad" : 1
+  } ],
+  "total" : 5999
+} ]

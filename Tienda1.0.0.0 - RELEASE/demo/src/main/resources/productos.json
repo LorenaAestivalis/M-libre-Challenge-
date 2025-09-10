@@ -1,0 +1,85 @@
+[ {
+  "id" : 1000001,
+  "nombre" : "Iphone 15",
+  "precio" : 1999.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 15 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 25
+}, {
+  "id" : 1000002,
+  "nombre" : "MAC AIR",
+  "precio" : 2999.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Potenciado con el Chip M4, Chip M3 ó Chip M2",
+  "stock" : 25
+}, {
+  "id" : 1000003,
+  "nombre" : "AIRPODS",
+  "precio" : 199.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Recarga el estuche de carga MagSafe con un cargador MagSafe o un cargador de Apple Watch.",
+  "stock" : 25
+}, {
+  "id" : 1000004,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000005,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000006,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000007,
+  "nombre" : "Camiseta deportiva",
+  "precio" : 59.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : "Camiseta de algodón 100% para entrenamiento",
+  "stock" : 25
+}, {
+  "id" : 1000008,
+  "nombre" : "Iphone 16",
+  "precio" : 3999.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000009,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000010,
+  "nombre" : "Iphone* 16 ProMax",
+  "precio" : 4999.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000011,
+  "nombre" : "Iphone* 16 ProMax",
+  "precio" : 4999.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+}, {
+  "id" : 1000012,
+  "nombre" : "Iphone 16 ProMax",
+  "precio" : 4999.99,
+  "urlImagen" : "https://midominio.com/imagenes/camiseta.jpg",
+  "description" : " iPhone 16 con Dynamic Island, cámara de 48 MP y USB-C",
+  "stock" : 0
+} ]

@@ -1,0 +1,3 @@
+username,password,roles
+admin,$2a$10$7gnmp5xAGTko0s0tbtKwv.qop..2mXvIALlLq0ACWgzl0Joc/PfAm,ROLE_ADMIN
+user,$2a$10$7gnmp5xAGTko0s0tbtKwv.qop..2mXvIALlLq0ACWgzl0Joc/PfAm,ROLE_USER
