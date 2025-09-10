@@ -158,9 +158,9 @@ Web Service para autenticación.
     *   **Ejemplo de Request Body:**
         ```json
         {
-          "username": "string",
-          "password": "string"
-        }
+         "username": "admin",
+         "password": "M3rc4d0*L1br3%2025"
+        } 
         ```
     *   **Ejemplo de Response Body (éxito):**
         ```json
@@ -181,6 +181,15 @@ Web Service para autenticación.
 ## 🔐 Seguridad
 
 Todos los endpoints marcados con el icono 🔒 requieren autenticación (token JWT en el encabezado `Authorization: Bearer <token>`).
+Es caseSensitive en en el usuario
+{
+  "username": "user",
+  "password": "M3rc4d0*L1br3%2025"
+}
+{
+  "username": "admin",
+  "password": "M3rc4d0*L1br3%2025"
+}
 
 ---
 
