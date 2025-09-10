@@ -1,4 +1,6 @@
-Aquí tienes el contenido para tu archivo `RUN.md`:
+# Manual de ejecucion Tienda API
+
+Este documento explica cómo levantar el servidor de la API y cómo interactuar con los diferentes endpoints utilizando la interfaz de Swagger.
 
 ```markdown
 # RUN.md
