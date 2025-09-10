@@ -62,4 +62,3 @@ mvn test
 
 *   **Dependencias faltantes:** Ejecuta `mvn clean install` nuevamente.
 *   **Errores de Java:** Asegúrate de que la versión de Java sea la correcta.
-```
