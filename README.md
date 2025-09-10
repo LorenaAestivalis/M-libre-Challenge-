@@ -1,13 +1,3 @@
-# M-libre-Challenge-
-BackEndDeveloper - WebServices
-Claro, te puedo ayudar a generar un README para tus webservices. Aquí tienes una propuesta basada en la imagen que me proporcionaste, estructurada para ser clara y útil:
-
-code
-Markdown
-download
-content_copy
-expand_less
-
 # Documentación de Web Services
 
 Este documento describe los web services disponibles para la gestión de productos, ventas y autenticación.
@@ -247,5 +237,3 @@ Códigos de Estado HTTP:
 400 Bad Request: Datos de entrada inválidos.
 
 404 Not Found: Producto no encontrado.
-
-Espero que esto te sea de gran ayuda. Si necesitas alguna modificación o quieres añadir más detalles, no dudes en pedírmelo.
