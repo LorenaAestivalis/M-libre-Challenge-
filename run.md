@@ -13,7 +13,6 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes pro
 *   Java 17 o superior 
 *   Maven 3.8 o superior 
 *   Git (para clonar el proyecto) 
-*   Opcional: Docker si quieres levantar servicios adicionales como bases de datos 
 
 ### Clonar el repositorio
 
