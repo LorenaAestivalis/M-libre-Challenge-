@@ -10,7 +10,7 @@ Web Service para operaciones relacionadas con productos.
 
 ### Endpoints
 
-*   **`PUT /productos/cambiar-precio`**
+*   **`PUT /productos/cambiar-precio`**🔒 
     *   **Descripción:** Cambia el precio de un producto específico por su ID.
     *   **Método:** `PUT`
     *   **Ejemplo de Request Body:**
@@ -21,7 +21,7 @@ Web Service para operaciones relacionadas con productos.
         }
         ```
 
-*   **`POST /productos/crear-producto`**
+*   **`POST /productos/crear-producto`**🔒 
     *   **Descripción:** Crea un nuevo producto.
     *   **Método:** `POST`
     *   **Ejemplo de Request Body:**
@@ -34,7 +34,7 @@ Web Service para operaciones relacionadas con productos.
         }
         ```
 
-*   **`GET /productos`**
+*   **`GET /productos`**🔒 
     *   **Descripción:** Lista todos los productos disponibles.
     *   **Método:** `GET`
     *   **Parámetros:** Ninguno
@@ -51,7 +51,7 @@ Web Service para operaciones relacionadas con productos.
         ]
         ```
 
-*   **`GET /productos/consultar/{id}`**
+*   **`GET /productos/consultar/{id}`**🔒 
     *   **Descripción:** Busca un producto por su ID.
     *   **Método:** `GET`
     *   **Parámetros de Ruta:**
@@ -67,7 +67,7 @@ Web Service para operaciones relacionadas con productos.
         }
         ```
 
-*   **`DELETE /productos/eliminar-producto/{id}`**
+*   **`DELETE /productos/eliminar-producto/{id}`**🔒 
     *   **Descripción:** Elimina un producto por su ID.
     *   **Método:** `DELETE`
     *   **Parámetros de Ruta:**
@@ -81,7 +81,7 @@ Web Service para operaciones relacionadas con ventas.
 
 ### Endpoints
 
-*   **`POST /ventas/procesar`**
+*   **`POST /ventas/procesar`**🔒 
     *   **Descripción:** Procesa una nueva venta.
     *   **Método:** `POST`
     *   **Ejemplo de Request Body:**
@@ -97,7 +97,7 @@ Web Service para operaciones relacionadas con ventas.
         }
         ```
 
-*   **`GET /ventas`**
+*   **`GET /ventas`**🔒 
     *   **Descripción:** Lista todas las ventas registradas.
     *   **Método:** `GET`
     *   **Parámetros:** Ninguno
@@ -121,7 +121,7 @@ Web Service para operaciones relacionadas con ventas.
         ]
         ```
 
-*   **`GET /ventas/consultar/{id}`**
+*   **`GET /ventas/consultar/{id}`**🔒 
     *   **Descripción:** Obtiene los detalles de una venta por su ID.
     *   **Método:** `GET`
     *   **Parámetros de Ruta:**
