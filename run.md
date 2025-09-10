@@ -30,7 +30,11 @@ cd nombre-proyecto](https://github.com/LorenaAestivalis/M-libre-Challenge-.git)]
 Usando Maven:
 
 ```bash
-mvn clean install
+ C:\M-libre-Challenge--dev\Tienda1.0.0.0 - RELEASE\demo> mvn clean install
+```
+
+```bash
+ C:\M-libre-Challenge--dev\Tienda1.0.0.0 - RELEASE\demo> mvn spring-boot:run
 ```
 
 Esto descargará las dependencias y compilará el proyecto.
