@@ -186,54 +186,5 @@ Todos los endpoints marcados con el icono 🔒 requieren autenticación (token J
 
 ## 📝 Notas Adicionales
 
-*   Asegúrate de reemplazar los tipos de datos genéricos como "string" y los valores numéricos con los tipos y rangos de datos reales esperados.
-*   Considera agregar información sobre códigos de estado HTTP (200 OK, 400 Bad Request, 401 Unauthorized, 404 Not Found, etc.).
-*   Puedes incluir un ejemplo de cómo obtener un token de autenticación utilizando el endpoint `/auth/login` si lo consideras útil.
-*   Si utilizas un framework como Swagger/OpenAPI, esta documentación puede generarse automáticamente.
+*   Asegúrate de ingresar el usuario con minusculas porque el elemento es case sensitive
 
-Aquí tienes una vista previa de cómo se vería una sección con un ejemplo:
-
-🚀 Productos
-
-Web Service para operaciones relacionadas con productos.
-
-PUT /productos/cambiar-precio
-
-Descripción: Cambia el precio de un producto específico por su ID.
-
-Método: PUT
-
-Ejemplo de Request Body:
-
-code
-JSON
-download
-content_copy
-expand_less
-IGNORE_WHEN_COPYING_START
-IGNORE_WHEN_COPYING_END
-{
-  "id": "PROD001",
-  "nuevoPrecio": 25.99
-}
-
-Ejemplo de Response Body (éxito):
-
-code
-JSON
-download
-content_copy
-expand_less
-IGNORE_WHEN_COPYING_START
-IGNORE_WHEN_COPYING_END
-{
-  "message": "Precio actualizado correctamente para el producto PROD001"
-}
-
-Códigos de Estado HTTP:
-
-200 OK: Precio actualizado exitosamente.
-
-400 Bad Request: Datos de entrada inválidos.
-
-404 Not Found: Producto no encontrado.
