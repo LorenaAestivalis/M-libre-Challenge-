@@ -21,8 +21,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes pro
 Clona el proyecto desde el repositorio remoto:
 
 ```bash
-git clone https://github.com/usuario/nombre-proyecto.git
-cd nombre-proyecto
+git clone [[https://github.com/usuario/nombre-proyecto.git
+cd nombre-proyecto](https://github.com/LorenaAestivalis/M-libre-Challenge-.git)](https://github.com/LorenaAestivalis/M-libre-Challenge-.git)
 ```
 
 ### Construir el proyecto
